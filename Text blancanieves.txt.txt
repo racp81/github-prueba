@@ -1,0 +1,5 @@
+c) Tercer cambio al texto se modifica archivo completamente.
+
+d) n	nuevos cambios, se guarda como archivo txt y no rtf
+
+Prueba en Github, se guarda el archivo como Plain Text.
